@@ -25,10 +25,10 @@ Mata kuliah : Bahasa pemrograman <p>
     - Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
       
 ### Program python
-![gambar1](screenshot/ft5.png)
+![gambar1](Alvero/foto1.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft6.png)
+![gambar1](Alvero/foto2.png)
 
 ## Latihan2: Laba
 ### Alur Algoritma Latihan2 :
@@ -52,16 +52,12 @@ ini hasil eksekusi program python diatas
     - Program selesai.
       
 ### Program python
-![gambar1](screenshot/ft7.png)
+![gambar1](Alvero/foto3.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft8.png)
+![gambar1](Alvero/foto4.png)
 
 ## Latihan3: Mesin atm
-### Flowchart
-![gambar1](screenshot/ft1.png)
-![gambar1](screenshot/ft2.png)
-
 ### Alur Algoritma Latihan3 :
  1. Mulai Program:
     - Inisialisasi saldo awal sebesar Rp 1.000.000.000.
@@ -89,8 +85,8 @@ ini hasil eksekusi program python diatas
 
 ### Program python
 seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadikan sebuah program python
-![gambar1](screenshot/ft3.png)
+![gambar1](Alvero/foto5.png)
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft4.png)
+![gambar1](Alvero/foto6.png)
